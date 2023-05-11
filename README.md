@@ -29,6 +29,7 @@ npm install -g @aws-amplify/cli
 amplify init
 amplify import auth
 amplify import storage
+amplify push
 npm install --global yarn
 ```
 #### Build and Copy to S3:
